@@ -1,0 +1,40 @@
+RAJENDRA DIWAN V. PRADEEP KUMAR RANIBALA
+2019 INSC 1353 (10 December 2019)
+Justices:  
+Justice Arun Mishra, Justice Indira Banerjee, Justice Vineet Saran, Justice Mukeshkumar R. Shah, Justice Shripathi R. Bhatt  
+Question(s):  
+Whether a State Legislature is competent to enact a law creating a direct statutory appeal from a Tribunal to the Supreme Court.
+Factual Background:  
+An appeal to the Supreme Court was filed under Section 13(2) of the Chhattisgarh Rent Control Act, 2011 (“Rent Control Act”) against an order of the Rent Control Tribunal. Section 13(2) of the Rent Control Act states that an appeal against an order of the Rent Control Tribunal can be made directly to the Supreme Court. 
+
+The Division Bench (two judges) of the Supreme Court expressed concerns about the maintainability of the appeal, observing that it was unclear whether the Constitution empowered the State Legislatures to enact a law providing for an appeal directly to the Supreme Court. To resolve this constitutional question, the case was referred to a Constitution Bench (five judges). 
+
+Decision of the Supreme Court:  
+The Constitution Bench held that Section 13(2) of the Rent Control Act was unconstitutional as the State Legislature of Chhattisgarh lacked the legislative competence to create an appeal directly to the Supreme Court from the order of the Rent Control Tribunal. The Court held that a State Legislature could not enact any law affecting the jurisdiction of the Supreme Court, only the Parliament could exercise such power. Further, it was held that Presidential assent cannot validate a law that the state legislature never had the power to make. The judgment of the Court was authored by Justice Banerjee.
+Reasons for the Decision:  
+State Legislature cannot provide for extra-territorial operation of state laws 
+
+The Supreme Court held that both Parliament and the State Legislatures derive their power to legislate from Article 245. It is understood that the legislature of a State will make laws for the whole or any part of the State, while Parliament will make laws for the whole or any part of the country. There is no provision in the Constitution which permits a State Legislature to legislate on matters beyond its territory (¶51). 
+
+The Seventh Schedule of the Indian Constitution divides powers between the Union and State legislatures through three lists: List I- the Union List (subjects only the Union can legislate on), the List II- State List (subjects only the States can legislate on), and the List III- Concurrent List (subjects both can legislate on, with Union law prevailing in case of conflict). The Supreme Court held that Entry 18 of List II only enables the State Legislature to legislate on landlord-tenant relationships, collection of rents, etc., and does not enable it to modify the appellate jurisdiction of the Supreme Court. While State Legislatures are empowered to enact laws on the jurisdiction and power of courts under Entry 64 of List II and Entry 46 of the Concurrent List this power specifically excludes the Supreme Court (¶52). Further, if a State Legislature were allowed to pass laws expanding the Supreme Court’s jurisdiction, it would render Entry 77 of List I, which gives Parliament the sole power to make laws regarding the jurisdiction of the Supreme Court, pointless (¶¶52, 53).
+
+Scope and Ambit of Article 323B  
+
+The Rent Control Tribunal is established under Article 323B of the Constitution. Article 323B(3)(d) of the Constitution of India provides that laws made under this article may exclude the jurisdiction of all courts, except the jurisdiction of the Supreme Court, concerning any matters falling within the jurisdiction of the Tribunals. However, the Supreme Court held that these provisions do not permit expanding the jurisdiction of the Supreme Court by enacting a provision allowing for a statutory appeal to the Supreme Court (¶55).
+
+Article 136 providing for special leave to appeal to the Supreme Court is not akin to statutory appeal 
+
+The Supreme Court dismissed the Appellant’s argument that Section 13(2) of the Rent Control Act merely extends the Supreme Court’s existing jurisdiction under Article 136, which grants the Supreme Court discretionary power to allow special leave to appeal from any judgment or order passed by any court or tribunal in India. The Court clarified that Article 136 grants discretionary power to the Supreme Court to interfere in appropriate cases and is distinct from regular statutory appeals. The Court emphasized that under Article 136, the Supreme Court focuses on questions of law of public importance, not factual determinations made by lower courts as is in the case of statutory appeals (¶60). Conversely, Section 13(2) of the Rent Control Act attempts to grant a statutory appeal to the Supreme Court on issues that may not involve serious questions of law. An appeal is a continuation of original proceedings and mandates a reevaluation of facts and evidence (¶57-62).
+
+Effect of Presidential assent 
+
+The Supreme Court rejected the argument that when a State law gets the assent of the President of India, that law prevails in the States, notwithstanding a conflict with an earlier Union law. The Court held that Presidential assent does not validate a legislation that the state legislature never had the power to enact; nor does it validate a statutory provision that can render a provision of the Constitution ineffective (¶76).
+
+
+
+Prepared by Sakshi Komal Dubey (Intern)
+
+Centre for Research and Planning, Supreme Court of India 
+
+Case Summaries are prepared to help promote a better understanding of the decisions of the Supreme Court of India. They do not form part of the Court's decision or reasons and are not for use in legal proceedings. 
+

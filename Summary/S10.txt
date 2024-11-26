@@ -1,0 +1,27 @@
+X V. THE PRINCIPAL SECRETARY HEALTH AND FAMILY WELFARE DEPARTMENT GOVT. OF NCT OF DELHI
+2022 INSC 740 (21 July 2022)
+Justices:  
+Chief Justice (Dr.) Dhananjaya Y. Chandrachud, Justice Surya Kant, and Justice Ajjikuttira S. Bopanna
+Question(s):  
+Whether unmarried women can secure an abortion after 20 weeks of pregnancy under Rule 3B of the Medical Termination of Pregnancy Rules, 2003 (“MTP Rules”).
+
+
+Factual Background:  
+The appellant, a 25-year-old unmarried woman involved in a consensual relationship, found out that she was 22 weeks pregnant in July 2022. Subsequently, before she completed 24 weeks of pregnancy, she filed a writ petition before the Delhi High Court seeking permission to terminate the pregnancy. 
+
+The Medical Termination of Pregnancy Act, 1971 (“MTP Act”) allows termination of pregnancy up to 20 weeks under Section 3(2)(a). Section 3(2)(b) of the Act allows for an abortion between 20-24 weeks if the pregnancy poses risks to the woman's life or mental health. However, MTP Rules state that such an abortion between 20-24 weeks is only allowed in certain cases like rape survivors, minors, women with changed marital status during pregnancy, mentally-ill women, or in cases of foetal malformation. Rule 3B(c) of the MTP Rules specifically permits termination between 20-24 weeks if there is a change in marital status during pregnancy (widowhood and divorce). 
+
+In writ proceedings before the High Court of Delhi, the appellant argued that her partner had refused to marry her at the last stage, and that Rule 3B(c) was discriminatory for not permitting unmarried women to secure an abortion. On 15 July 2022, the High Court of Delhi denied the Appellant’s request to terminate her pregnancy, holding that as on the date of its order, Rule 3B of MTP Rules is only applicable to married women. The Appellant appealed to the Supreme Court of India.
+
+Decision of the Supreme Court:  
+In its interim order, the Supreme Court modified the order of the Delhi High Court and granted the appellant permission to terminate her pregnancy under the MTP Act, subject to opinion of the Medical Board constituted under the All India Institute of Medical Sciences (AIIMS) that the pregnancy could be terminated without danger to the life of the Appellant. In its final judgment, the Court ruled that unmarried women can secure an abortion between 20-24 weeks under Rule 3B of the MTP Rules. The judgment of the Court was authored by Justice Chandrachud.
+
+
+Reasons for the Decision:  
+The Supreme Court held that the phrase ‘change of marital status’ should be understood broadly, not restrictively, and the terms ‘widowhood and divorce’ should not be considered exhaustive (¶14).
+
+The Supreme Court noted that the 2021 amendment to the MTP Act aimed to include unmarried and single women by replacing the terms ‘married woman’ with the words ‘any woman’, and replacing ‘husband’ with ‘partner’ in Explanation I of Section 3(2). This change implies that the Act is not limited to married women (¶¶15-17). 
+
+The Supreme Court further held that there is a gap in the law: while Section 3 of MTP Act extends beyond marital relationships, Rule 3B of the MTP Rules does not explicitly mention unmarried women. Nonetheless, the Court ruled that denying unmarried women the right to terminate pregnancy contradicts the principles of equality as the same right is available to other categories of women – such as divorcees, widows, minors, disabled and mentally ill women, and survivors of sexual assault or rape (¶18).
+
+Emphasizing that the MTP Act recognizes a woman's fundamental rights to reproductive choice, bodily integrity, and autonomy under Article 21 of the Constitution, the Court clarified that these rights are not confined to married women; both married and unmarried women have the right to decide on termination of pregnancy (¶16).

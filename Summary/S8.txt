@@ -1,0 +1,33 @@
+M/S TRIMURTHI FRAGRANCES (P) LTD. THROUGH ITS DIRECTOR SHRI PRADEEP KUMAR AGRAWAL V. GOVT.OF N.C.T OF DELHI THROUGH ITS PRINCIPAL SECRETARY (FINANCE)
+2022 INSC 975 (19 September 2022)
+Justices:  
+Justice Indira Banerjee, Justice Hemant Gupta, Justice Surya Kant, Justice M.M. Sundresh, and Justice Sudhanshu Dhulia
+
+
+Question(s):  
+(i) Whether the decision in Kothari Products Ltd. v. State of A.P. or the decision in Central Sales Tax v. Agra Belting Work is correct on whether a State can tax ‘Pan Masala’ and ‘Gutka’? (ii) Whether a unanimous (3:0) decision of a Three Judge Bench has more precedential value than a 2:1 majority decision of a Three Judge Bench?
+
+Factual Background:  
+This case concerned the taxability of ‘Pan Masala’ or ‘Gutka’ under State Sales Tax Acts, given that ‘tobacco’ was already taxed by the Union Government under the Additional Duties of Excise (Goods of Special Importance) Act 1957 (“ADE Act”).
+
+The ADE Act levies a tax on ‘tobacco’. The law is settled that once goods are taxed under the ADE Act, the State cannot impose sales tax on them under a State law. On 31 March, 2000, the Lieutenant Governor of Delhi issued a notification to include ‘Pan Masala and Gutka’ in the First Schedule, making it taxable under the State Act.
+
+In 2004, Shanti Fragrances challenged the Lieutenant Governor’s notification in the Delhi High Court, arguing that ‘Pan Masala and Gutka’ were already covered under the general ‘Tobacco’ entry in the ADE Act and were thus exempt from State taxation. Shanti Fragrances relied on the Supreme Court’s decision in Kothari Products Ltd. v Govt. of Andhra Pradesh  (“Kothari Products”). In response, the Revenue Department relied upon the Supreme Court’s decision in Commissioner, Sales Tax, Uttar Pradesh v. Agra Belting Works (“Agra Belting Works”) to argue that Pan Masala and Gutka should be taxable under state law. 
+
+On 5 November 2004, the High Court of Delhi dismissed the writ petition by relying on Agra Belting Works. The judgment of the Delhi High Court was challenged before the Supreme Court. The Allahabad and Madras High Courts also delivered similar judgements. These High Courts further held that State Legislatures were competent to levy taxes on the sale or purchase of items taxed under the ADE Act. 
+
+During the course of hearing, a two judge bench of the Supreme Court noted a conflict between Kothari Products and Agra Belting Works, both Three Judge Bench decisions of the Supreme Court. Kothari Products was unanimous (3:0), while Agra Belting Works had a 2:1 majority. To resolve the conflict concerning the State taxes on Pan Masala and Gutka, and to determine the precedential value of a judgment (whether a unanimous decision by a three judge bench holds greater precedential value than a decision delivered by a 2:1 majority), the bench referred the case to a Constitution Bench.
+
+Decision of the Supreme Court:  
+The Constitution Bench (five judges) unanimously held that there was no conflict between the judgments rendered in Kothari Products and Agra Belting Works. On the question of precedential value, the Court held that this issue had been addressed by a previous Constitution bench in Dr. Jaishri Laxmanrao Patil v. The Chief Minister. In that case, the Court had ruled that a decision delivered by a Bench of larger strength is binding on any subsequent Bench of lesser or coequal strength, regardless of the specific number of judges in the majority. The judgment of the Court was authored by Justice Banerjee on behalf of herself and Justices Kant, Sundresh, and Dhulia. Justice Gupta wrote a separate concurring opinion. 
+
+Reasons for the Decision:  
+There is no conflict between the Kothari Products line of cases and the Agra Belting line of cases
+
+The Supreme Court concluded that there is no direct conflict between the Kothari Products line of cases and the Agra Belting Works line of cases (¶17). In the Kothari Products line of cases, the question of whether ‘gutka’ being ‘tobacco’ specified in the First Schedule to the ADE Act could be taxed under state statutes. It was held that State laws could not tax ‘gutka’ because it was already taxed under the ADE Act (¶8). On the other hand, the Agra Belting Works line of cases concerned the interplay between a general exemption of specified goods from sales tax and the subsequent specification of rates of sales tax for such exempted goods. The Court in Agra Belting Works pointed out that if a notification grants exemption from tax, and later, a subsequent notification (under another provision) prescribes the rate of tax, the intention is to withdraw the exemption and impose the tax at the rate prescribed in the later notification (¶12). 
+
+Bench strength is determinative of the binding nature of the Judgment
+
+The Supreme Court held that the second issue concerning the precedential value of a judgement was already answered by the previous Constitution Bench judgment in Dr. Jaishri Laxmanrao Patil v. The Chief Minister (¶18). In that case it was held that a unanimous decision of a five judge bench (5:0) would not be a reason to doubt the correctness of a later seven judge bench even though the seven judge decision was made by a smaller majority (e.g., 4:3). The decision of the seven judge bench would be the correct and binding decision. Justice Banerjee held that in view of Article 145(5) of the Constitution of India, a concurrence of a majority of the judges at the hearing will be considered as a judgment of the Court (¶19). The Court affirmed the settled principle that the majority decision of a bench of larger strength would prevail over the decision of a bench of lesser strength, irrespective of the number of Judges constituting the majority in the smaller bench (¶19).
+
+In his separate and concurring opinion, Justice Gupta also concluded that the strength of the bench, rather than the number of judges who have taken a certain position, is the relevant consideration. He further held that a smaller bench cannot disagree with or dissent

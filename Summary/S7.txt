@@ -1,0 +1,37 @@
+SUKHPAL SINGH KHAIRA V. THE STATE OF PUNJAB
+2022 INSC 1252 (5 December 2022)
+Justices:  
+Justice Syed A. Nazeer, Justice Bhushan R. Gavai, Justice Ajjikuttira S. Bopanna, Justice V. Ramasubramanian and Justice B. V. Nagarathna
+
+
+Question(s):  
+(i) Can a trial court summon a new accused person under Section 319 of the Criminal Procedure Code, 1973 (“CrPC”) after the trial has ended? (ii) If in criminal proceedings against multiple accused, the trial has been separated between (1) physically present accused; and (2) absconding accused persons, can a new accused be summoned in the second set of proceedings after the first has concluded? (iii) What guidelines must courts follow while summoning a new accused under Section 319 of the Code?
+
+Factual Background:  
+A case was registered against eleven persons for offences committed under various laws, including the Narcotics and Psychotropic Substances Act, 1985. On 31 October 2017, the Sessions Court convicted nine of the accused and acquitted two. On the same day, after the conviction judgment was pronounced, the Sessions Court issued a Summoning Order against five additional persons under section 319 of the CrPC.
+
+Section 319 of the CrPC empowers the court to summon additional accused if the evidence produced in the case suggests their involvement in the alleged offence, provided the summons order is issued “in the course of” any inquiry or trial. 
+
+The newly accused individuals (the Petitioners) challenged the Summoning Order at the Punjab and Haryana High Court. The High Court upheld the Summoning Order, leading the Petitioners to the Supreme Court.
+
+Before the Supreme Court, the Petitioners contended that the Summoning Order can only be issued “in the course” of an inquiry and trial and cannot be issued after the conclusion of the trial as it deprives the accused of the right to be informed of the accusations and defend themselves while evidence is being examined, which is only possible during the course of trial. The Respondents contended that summoning an accused after the conclusion of trial was a mere procedural irregularity that should be excused in light of the objective of Section 319 to do complete justice. The issue was referred to a Constitution Bench (five judges) of the Supreme Court.
+
+Decision of the Supreme Court:  
+The Supreme Court determined that a Summoning Order under Section 319 of the CrPC is made “in the course” of a trial if: (i) in the case of acquittal it is made before acquittal is pronounced; and (ii) in the case of conviction, it is made prior to the final sentencing order. If the summoning order and either the acquittal order or sentencing order (in case of conviction) are issued on the same day, then the facts and circumstances of each case must be examined to see if the summoning order precedes the conclusion of trial. The judgment of the Court was authored by Justice Bopanna. 
+
+Where trial proceedings are bifurcated between physically present accused and absconding accused, the Supreme Court ruled that trial courts can summon additional accused individuals in the subsequent proceedings against absconding individuals if the evidence on which the Summoning Order is based on arises from the subsequent proceedings against absconding individuals. However, the Supreme Court ruled that the Summoning Order cannot be founded on evidence recorded in the main concluded trial (against physically present people) if the power under Section 319 had not been utilised in the main trial until its completion.
+
+The Supreme Court also established guidelines to be followed under Section 319 of the CrPC. Some of the key guidelines it laid down are: (i) If, during trial, evidence or an application implicates another person in the offence, the court must pause proceedings, and first assess the need to summon the additional accused, and issue summoning orders if deemed necessary; (ii) The decision on joint or separate trials for the summoned accused is then made, with a joint trial commencing only after securing the new accused’s presence; (iii) If the power is invoked after judgment is reserved, the court should set the case for rehearing, following the specified procedure; and (iv) In the event of a joint trial, it should be conducted afresh, and if a separate trial is decided, proceedings against the summoned accused can proceed after pronouncing judgment in the main case.
+
+Reasons for the Decision:  
+Object of Section 319 
+
+The Supreme Court found that Section 319 of the Code was introduced to ensure that an accused, not initially charge-sheeted but found to be involved in the crime during the trial, does not escape legal consequences (¶19). This section empowers the court to summon and try such an accused alongside others before the conclusion of the trial (¶19). 
+
+When does trial end?
+
+As a Summoning Order can only be issued “in the course” of trial, a key question was when trial is deemed to end (¶21). The Supreme Court observed that a trial ends at different points depending on whether the trial ends in acquittal or conviction (¶¶22-23). In cases of acquittal, the court will record an acquittal order under Sections 232 or 235 of the CrPC and the trial is concluded (¶22). However,  in the case of conviction after the judgment ordering conviction, there is also a subsequent sentencing decision (¶¶21, 23). Thus, for cases that end in conviction, the trial is not complete upon a finding of guilt, it continues until the judge determines the appropriate sentence and pronounces the sentence (¶23). 
+
+Additional accused can be summoned in separate trial, provided evidence produced in that specific trial indicates accused’s involvement
+
+The Supreme Court clarified that the mere bifurcation of a trial against an absconding accused does not automatically validate an order under Section 319 summoning an additional accused in the earlier concluded main trial against physically present individuals (¶30). The exercise of such power depends on evidence recorded in a specific case indicating the involvement of the accused to be summoned (¶30). If, in a split case against the absconding accused, evidence against absconding accused points to the involvement of another person, Section 319 can be invoked in that split case before its conclusion, but not based on evidence produced in the earlier concluded main trial (¶30).

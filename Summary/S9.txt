@@ -1,0 +1,32 @@
+DEEPIKA SINGH V. CENTRAL ADMINISTRATIVE TRIBUNAL
+2022 INSC 834 (16 August 2022)
+Justices:  
+Justice (Dr.) Dhananjaya Y. Chandrachud, Justice Ajjikuttira S. Bopanna
+Question(s):  
+Whether, a woman who availed child-care leave for two non-biological children was entitled to maternity leave for her first biological child (deemed third child) under Rule 43 of Central Civil Service (Leave) Rules 1972.
+Factual Background:  
+The Appellant, employed as a Nursing Officer at the Post Graduate Institute of Medical Education and Research in Chandigarh, married one Amir Singh, who already had two children from a previous marriage, a male child born on 1 February 2001 and a female child born on 3 March 2005. The Appellant gave birth to her first biological child on 4 June 2019 and applied for maternity leave in terms of Rule 43 of Central Civil Services (Leave) Rules 1972 (“Service Rules”). Her request for maternity leave was rejected by the authorities on the grounds that she had two surviving children from her spouse’s first marriage for whom she had already availed child care leave under Rule 43-C. Consequently, the child borne by her would be considered her third child, for which no maternity leave is allowed under Rule 43.
+
+According to Rule 43(1) of Service Rules, a female government employee “with less than two surviving children” is eligible for maternity leave for up to 180 days. Additionally, Rule 43-C allows a female government employee with minor children to seek child-care leave for a maximum duration of two years to attend to the needs of "up to two children." The Appellant challenged the rejection of her maternity leave before the Central Administrative Tribunal (“CAT”). 
+
+The CAT rejected her challenge. The Appellant appealed to the Punjab and Haryana High Court, but her appeal was dismissed. She then appealed to the Supreme Court.
+
+The Appellant contends that availing child-care leave would not disentitle her from availing subsequent maternity leave as they are distinct. The Respondents contend that having two surviving children disentitles her from availing maternity leave for what is effectively her third child.
+
+Decision of the Supreme Court:  
+The Supreme Court determined that the appellant's right to maternity leave for her biological child remains unaffected by the fact that her spouse had two children from his prior marriage whom she had availed child-care leave for. The appellant is entitled to maternity leave under Rule 43(1) for her first biological child. The judgment was authored by Justice D.Y. Chandrachud.
+
+Reasons for the Decision:  
+Object of Rule 43 of Service Rules
+
+The Supreme Court held that beneficial rules such as maternity benefits should be construed liberally to promote the intended objectives of social welfare (¶¶15-16). The Service Rules entrench and enhance the general non-discrimination principle of Article 15 of Constitution of India, and come from authority given in Article 15(3) of Constitution to create beneficial provisions for women (¶20). 
+
+The Supreme Court examined similar provisions (under the Maternity Benefit Act, 1961) and held that the objective of these provisions is to ensure that an individual is not disentitled from being paid their wages during a period of leave for childbirth or child-care (¶19). The intention is to facilitate continued participation of women in the workforce (¶25). If a purposive interpretation of the legislation is not adopted, the object and intent of maternity leave would simply be defeated (¶25).
+
+Maternity Leave and Child-care are distinct
+
+The Supreme Court observed that beyond the grant of 180 days maternity leave under Rule 43(1) of the Service Rules, women are entitled to child-care leave under Rule 43-C for the care of their two eldest surviving children, whether for rearing or addressing their needs such as education or sickness (¶23). This entitlement could be availed not only at the time of childbirth but also at any subsequent period. Both maternity leave and child care leave constitute distinct entitlements (¶23). Therefore, merely because the Appellant had availed child care leave did not disentitle her from claiming maternity leave (¶24).
+
+Atypical family units deserve equal benefits
+
+The Supreme Court opined that due to gendered roles assigned by society, women often undertake a disproportionate share of child-care (¶24). Atypical manifestations of family units (such as the present case) equally deserve benefits available under social welfare legislation (¶26). The Court reasoned that Appellant should not be denied maternity leave merely because she entered into a parent-child relationship or undertook child-care responsibilities in ways that may not find a place in the popular imagination (¶26).
